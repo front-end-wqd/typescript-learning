@@ -1,1 +1,1 @@
-const _7_1: [string, number] = ["wqd", 26];
+const tuple: [string, number] = ["wqd", 26];

@@ -1,8 +1,8 @@
 let count: number = 1;
 
 interface Person {
-    name: string,
-    age: number,
+    name: string;
+    age: number;
 }
 
 let a: Person = {

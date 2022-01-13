@@ -1,10 +1,10 @@
-const _6_1 = [1, 2, 3];
+const arrOne = [1, 2, 3];
 
-const _6_2: string[] = ["a", "b", "c"];
+const arrTwo: string[] = ["a", "b", "c"];
 
-const _6_3: (string | number)[] = [1, "2"];
+const arrThree: (string | number)[] = [1, "2", 3];
 
-const _6_4: {
+const arrFour: {
     name: string;
     age: number;
 }[] = [

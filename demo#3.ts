@@ -1,6 +1,6 @@
 const one: {
-    name: string,
-    age: number,
+    name: string;
+    age: number;
 } = {
     name: "wqd",
     age: 25,
